@@ -98,7 +98,6 @@ pao-e-cia/
 - [x] Insere ícone do WhatsApp.
 - [x] Insere ícones do Instagram e Facebook.
 - [x] Confirmar preços dos produtos.
-- [ ] Insere o banner do site.
 
 **Estimativa:** 30–60 min  
 **Dependências:** nenhuma.

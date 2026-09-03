@@ -93,8 +93,8 @@ pao-e-cia/
 - [x] Definir nome oficial: **Pão & Cia**.
 - [x] Definir slogan: **"Pão fresquinho todos os dias"**.
 - [x] Definir texto final da seção Sobre nós.
-- [ ] Definir endereço.
-- [ ] Definir horário de funcionamento.
+- [x] Definir endereço.
+- [x] Definir horário de funcionamento.
 - [ ] Confirmar número do WhatsApp.
 - [ ] Confirmar URLs do Instagram e Facebook.
 - [ ] Confirmar preços dos produtos.

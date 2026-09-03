@@ -97,7 +97,7 @@ pao-e-cia/
 - [x] Definir horário de funcionamento.
 - [x] Insere ícone do WhatsApp.
 - [x] Insere ícones do Instagram e Facebook.
-- [ ] Confirmar preços dos produtos.
+- [x] Confirmar preços dos produtos.
 
 **Estimativa:** 30–60 min  
 **Dependências:** nenhuma.

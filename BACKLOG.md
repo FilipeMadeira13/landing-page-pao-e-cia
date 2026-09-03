@@ -90,7 +90,7 @@ pao-e-cia/
 
 ### P0 — Definir conteúdo
 
-- [ ] Definir nome oficial: **Pão & Cia**.
+- [x] Definir nome oficial: **Pão & Cia**.
 - [ ] Definir slogan: **"Pão fresquinho todos os dias"**.
 - [ ] Definir texto final da seção Sobre nós.
 - [ ] Definir endereço.

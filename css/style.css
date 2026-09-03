@@ -3,3 +3,24 @@
     margin: 0;
     padding: 0;
 }
+
+/* Visual Desktop */
+body{
+    background-color: #F2CC8F;
+}
+
+h1{
+    color: #8B4513;
+}
+
+h2, h3{
+    color: #7A5230;
+}
+
+p{
+    color: #3D2B1F;
+}
+
+a{
+    color: #3D2B1F;
+}

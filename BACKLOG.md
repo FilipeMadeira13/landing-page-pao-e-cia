@@ -91,13 +91,13 @@ pao-e-cia/
 ### P0 — Definir conteúdo
 
 - [x] Definir nome oficial: **Pão & Cia**.
-- [ ] Definir slogan: **"Pão fresquinho todos os dias"**.
-- [ ] Definir texto final da seção Sobre nós.
-- [ ] Definir endereço.
-- [ ] Definir horário de funcionamento.
-- [ ] Confirmar número do WhatsApp.
-- [ ] Confirmar URLs do Instagram e Facebook.
-- [ ] Confirmar preços dos produtos.
+- [x] Definir slogan: **"Pão fresquinho todos os dias"**.
+- [x] Definir texto final da seção Sobre nós.
+- [x] Definir endereço.
+- [x] Definir horário de funcionamento.
+- [x] Insere ícone do WhatsApp.
+- [x] Insere ícones do Instagram e Facebook.
+- [x] Confirmar preços dos produtos.
 
 **Estimativa:** 30–60 min  
 **Dependências:** nenhuma.

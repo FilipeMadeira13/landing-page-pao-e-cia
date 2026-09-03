@@ -95,7 +95,7 @@ pao-e-cia/
 - [x] Definir texto final da seção Sobre nós.
 - [x] Definir endereço.
 - [x] Definir horário de funcionamento.
-- [ ] Confirmar número do WhatsApp.
+- [x] Insere ícone do WhatsApp.
 - [ ] Confirmar URLs do Instagram e Facebook.
 - [ ] Confirmar preços dos produtos.
 

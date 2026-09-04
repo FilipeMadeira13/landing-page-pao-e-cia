@@ -115,16 +115,11 @@ li p{
     text-align: center;
 }
 
-a{
-    color: #3D2B1F;
-    font-family: "Lora", sans-serif;
-}
-
 .social-media{
     width: 200px;
+    margin: 20px 123px;
 }
 
-main .social-media{
-    margin-left: 400px;
-    margin-top: 70px;
+.social-media:hover{
+    filter: brightness(0.5);
 }

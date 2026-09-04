@@ -106,15 +106,13 @@ li p{
     font-weight: bold;
 }
 
-.visite{
-    display: flex;
-}
 
 .local-horario li{
     color: #3D2B1F;
     font-family: "Lora", sans-serif;
     margin-left: 50px;
     font-size: 18px;
+    text-align: center;
 }
 
 a{

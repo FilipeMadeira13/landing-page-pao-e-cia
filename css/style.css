@@ -1,0 +1,125 @@
+/* Definição de fontes */
+@font-face {
+    font-family: "Lora";
+    src: url(../fonts/Lora-Regular.ttf) format("truetype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Lora-Bold";
+    src: url(../fonts/Lora-Bold.ttf) format("truetype");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Caveat";
+    src: url(../fonts/Caveat-Bold.ttf) format("truetype");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Reset */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Visual Desktop */
+body{
+    background-color: #F2CC8F;
+}
+
+header img{
+    display: block;
+    margin: 35px auto 20px;
+}
+
+h1{
+    color: #8B4513;
+    font-family: "Caveat", sans-serif;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 60px;
+}
+
+h2{
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 15px;
+}
+
+.sobre-nos{
+    margin-bottom: 30px;
+}
+
+h2, h3{
+    color: #7A5230;
+    font-family: "Lora-Bold", sans-serif;
+}
+
+p{
+    color: #3D2B1F;
+    font-family: "Lora", sans-serif;
+}
+
+.slogan{
+    font-family: "Caveat", sans-serif;
+    text-align: center;
+    font-size: 24px;
+    margin: 0 auto 20px;
+    width: 1000px;
+    margin-bottom: 60px;
+}
+
+ul{
+    list-style: none;
+}
+
+.produtos{
+    display: flex;
+}
+
+li{
+    margin: 20px;
+}
+
+li img{
+    width: 400px;
+    height: 400px;
+}
+
+.texto-produto{
+    margin-top: 10px;
+}
+
+h3{
+    font-size: 20px;
+}
+
+li p{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+.local-horario li{
+    color: #3D2B1F;
+    font-family: "Lora", sans-serif;
+    margin-left: 50px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.social-media{
+    width: 200px;
+    margin: 20px 123px;
+}
+
+.social-media:hover{
+    filter: brightness(0.5);
+}

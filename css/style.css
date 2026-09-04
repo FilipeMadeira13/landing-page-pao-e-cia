@@ -49,8 +49,12 @@ h1{
 
 h2{
     text-align: center;
-    margin-bottom: 8px;
     font-size: 35px;
+    margin-bottom: 15px;
+}
+
+.sobre-nos{
+    margin-bottom: 30px;
 }
 
 h2, h3{
@@ -69,9 +73,10 @@ p{
     font-size: 24px;
     margin: 0 auto 20px;
     width: 1000px;
+    margin-bottom: 60px;
 }
 
-main ul{
+.produtos{
     display: flex;
     list-style: none;
 }
@@ -83,6 +88,19 @@ li{
 li img{
     width: 400px;
     height: 400px;
+}
+
+.texto-produto{
+    margin-top: 10px;
+}
+
+h3{
+    font-size: 20px;
+}
+
+li p{
+    font-size: 18px;
+    font-weight: bold;
 }
 
 a{

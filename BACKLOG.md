@@ -105,7 +105,7 @@ pao-e-cia/
 ### P1 — Definir identidade visual
 
 - [x] Definir paleta de cores terrosas/quentes.
-- [ ] Definir tipografia.
+- [x] Definir tipografia.
 - [ ] Definir estilo dos botões.
 - [ ] Definir bordas, sombras e espaçamentos.
 - [ ] Definir tratamento das imagens.

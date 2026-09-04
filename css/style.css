@@ -47,10 +47,6 @@ h1{
     font-size: 60px;
 }
 
-main p{
-    font-family: "Caveat", sans-serif;
-}
-
 h2{
     text-align: center;
     margin-bottom: 8px;
@@ -65,10 +61,28 @@ h2, h3{
 p{
     color: #3D2B1F;
     font-family: "Lora", sans-serif;
+}
+
+.slogan{
+    font-family: "Caveat", sans-serif;
     text-align: center;
     font-size: 24px;
     margin: 0 auto 20px;
     width: 1000px;
+}
+
+main ul{
+    display: flex;
+    list-style: none;
+}
+
+li{
+    margin: 20px;
+}
+
+li img{
+    width: 400px;
+    height: 400px;
 }
 
 a{

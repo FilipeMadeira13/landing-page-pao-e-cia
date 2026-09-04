@@ -76,9 +76,12 @@ p{
     margin-bottom: 60px;
 }
 
+ul{
+    list-style: none;
+}
+
 .produtos{
     display: flex;
-    list-style: none;
 }
 
 li{
@@ -103,7 +106,27 @@ li p{
     font-weight: bold;
 }
 
+.visite{
+    display: flex;
+}
+
+.local-horario li{
+    color: #3D2B1F;
+    font-family: "Lora", sans-serif;
+    margin-left: 50px;
+    font-size: 18px;
+}
+
 a{
     color: #3D2B1F;
     font-family: "Lora", sans-serif;
+}
+
+.social-media{
+    width: 200px;
+}
+
+main .social-media{
+    margin-left: 400px;
+    margin-top: 70px;
 }

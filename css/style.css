@@ -85,6 +85,7 @@ ul{
 
 .produtos{
     display: flex;
+    flex-wrap: wrap;
 }
 
 li{

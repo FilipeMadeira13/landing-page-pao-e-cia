@@ -122,10 +122,18 @@ li p{
     text-align: center;
 }
 
+footer div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+
 .social-media{
     max-width: 200px;
     width: 100%;
-    margin: 20px 123px;
+    margin: 0;
 }
 
 .social-media:hover{

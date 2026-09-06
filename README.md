@@ -5,6 +5,10 @@ Landing page da Pão & Cia, uma padaria artesanal criada para apresentar a marca
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
+## Site
+
+[Pão & Cia](https://filipemadeira13.github.io/landing-page-pao-e-cia/)
+
 ## Instalação
 
 Este é um projeto estático e não possui dependências externas ou etapa de compilação.

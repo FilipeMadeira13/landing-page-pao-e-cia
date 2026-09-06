@@ -88,10 +88,12 @@ ul{
 .produtos{
     display: flex;
     flex-wrap: wrap;
+    gap: 20px;
 }
 
 li{
     margin: 20px;
+    flex: 1;
 }
 
 li img{
@@ -138,4 +140,12 @@ footer div{
 
 .social-media:hover{
     filter: brightness(0.5);
+}
+
+/* Estilo mobile */
+
+@media(max-width: 375px){
+    li{
+        flex: auto;
+    }
 }

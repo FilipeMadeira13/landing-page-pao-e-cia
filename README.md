@@ -7,7 +7,7 @@ Landing page da Pão & Cia, uma padaria artesanal criada para apresentar a marca
 
 ## Site
 
-[Pão & Cia](https://filipemadeira13.github.io/landing-page-pao-e-cia/)
+[Pão & Cia](https://filipemadeira13.github.io/landing-page-pao-e-cia/) 
 
 ## Instalação
 
